@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\proyectomvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\proyectomvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\proyectomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\proyectomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|c:\\users\\curling\\source\\repos\\proyectomvc\\proyectomvc\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374A357-993C-4C54-8984-3D11F1364E94}|ProyectoMVC\\ProyectoMVC.csproj|solutionrelative:proyectomvc\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProyectoMVC",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj",
+              "RelativeDocumentMoniker": "ProyectoMVC\\ProyectoMVC.csproj",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj",
+              "RelativeToolTip": "ProyectoMVC\\ProyectoMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T00:29:31.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Productos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Productos\\Edit.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Productos\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:19:23.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T23:57:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Productos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:19:02.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:18:28.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ProyectoMVC\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAQwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:14:15.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Models\\Producto.cs",
+              "RelativeToolTip": "ProyectoMVC\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:10:10.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProyectoMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvycAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:27:16.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Program.cs",
+              "RelativeToolTip": "ProyectoMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:33:16.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T23:40:30.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProyectoMVC",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj",
+              "RelativeDocumentMoniker": "ProyectoMVC\\ProyectoMVC.csproj",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\ProyectoMVC.csproj",
+              "RelativeToolTip": "ProyectoMVC\\ProyectoMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T23:26:57.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Productos\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:19:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProyectoMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T23:37:52.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:34:09.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProyectoMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:36:22.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\appsettings.json",
+              "RelativeToolTip": "ProyectoMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T23:24:30.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "ProyectoMVC\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\CURLING\\source\\repos\\ProyectoMVC\\ProyectoMVC\\Models\\Login.cs",
+              "RelativeToolTip": "ProyectoMVC\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:26:13.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 91,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
